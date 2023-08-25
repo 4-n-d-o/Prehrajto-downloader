@@ -9,5 +9,8 @@
 2. Click on result
 3. Click on download button
 
-### This project is just sending request to search and parse link from html.
-### Please consider supporting prehrajto to access their inweb player without ads instead of using this.
+
+# Disclaimer
+As developer, I do not take any responsibility for usage of this software by individuals.
+This project is just sending request, parsing html and finding text in it (same thing you can achieve by normal browser)
+Please consider supporting prehrajto to access their inweb player without ads instead of using this.
