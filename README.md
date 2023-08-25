@@ -9,5 +9,5 @@
 2. Click on result
 3. Click on download button
 
-## This project is just sending request to search and parse link from html.
-## Please consider supporting prehrajto to access their inweb player without ads.
+### This project is just sending request to search and parse link from html.
+### Please consider supporting prehrajto to access their inweb player without ads instead of using this.
